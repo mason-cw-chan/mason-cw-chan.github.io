@@ -41,7 +41,7 @@
       "url": "",
       "startDate": "",
       "endDate": "",
-      "summary": "I cannot even help myself getting an internship",
+      "summary": "I cannot even help myself get an internship",
       "highlights": ["A", ""]
     }
   ],
@@ -51,7 +51,7 @@
       "location": "Shatin, Hong Kong",
       "url": "https://www.cuhk.edu.hk/english/",
       "area": "Quantitative Finance and Risk Management Science; Mathematics",
-      "studyType": "BSc",
+      "studyType": "BSc in Quantitative Finance and Risk Management Science",
       "startDate": "2025-09-01",
       "endDate": "2029-07-31",
       "score": "",
@@ -74,13 +74,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -90,27 +83,18 @@
       "releaseDate": "1905-03-18",
       "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
       "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Mathematics",
+      "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Analysis",
+        "Multivariate calculus (not yet mastered)",
+        "Number theory",
+        "Linear algebra"
       ]
     }
   ],
@@ -151,7 +135,7 @@
       "name": "Mathematics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Number Theory"
+        "Number theory"
       ]
     },
     {
