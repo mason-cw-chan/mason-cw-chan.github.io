@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Maths enthusiast, quant aspirant, CS amateur, rhythm game addict
+subtitle: Maths enthusiast, quant aspirant, CS amateur, rhythm game addict
 
 profile:
   align: right
