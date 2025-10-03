@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Mason Chan's hub # the website title (if blank, full name will be used instead)
 first_name: Mason
 middle_name: Chi Wah
 last_name: Chan
@@ -54,7 +54,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 1200px
+max_width: 1200 px
 
 # TODO: add layout settings (single page vs. multi-page)
 
