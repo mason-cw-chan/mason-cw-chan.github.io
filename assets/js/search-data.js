@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/people/";
               },
-            },{id: "post-cuhk-canteen-catalogue-中大canteen目錄",
+            },{id: "post-a-successfully-failed-instagram-social-experiment",
+        
+          title: "A Successfully Failed Instagram Social Experiment",
+        
+        description: "Just some discourse on this social expeiment.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/social-expt/";
+          
+        },
+      },{id: "post-cuhk-canteen-catalogue-中大canteen目錄",
         
           title: "CUHK Canteen Catalogue (中大Canteen目錄)",
         
