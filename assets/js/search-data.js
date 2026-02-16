@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Download my LaTeX CV by clicking the PDF button. For some reasons, there is no &#39;Experience&#39; section in the JSON resume format, but only &#39;Volunteer&#39;. Therefore, I add my experiences in this section.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -210,11 +210,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/Mason Chan", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-youtube',
+        title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://youtube.com/@MC-Music-on-Piano", "_blank");
+        },
+      },{
+        id: 'social-threads',
+        title: 'Threads',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.threads.com/@mc.is.studying", "_blank");
         },
       },{
       id: 'light-theme',
